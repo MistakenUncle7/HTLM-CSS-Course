@@ -4,22 +4,22 @@
 - It is composed of tags of code. 
 - It is divided in \<head> and \<body>
 
-## \<head>\
+## \<head>
 - It is the title that appears in the tab of the site.
 
-## \<body>\
+## \<body>
 - It 
 
-## \<div>\
-- \<div>\ stands for division
-- They are in the \<body>\ of the site
+## \<div>
+- \<div> stands for division
+- They are in the \<body> of the site
 - It is used to group and organize other HTML elements together
-- There can be a \<div>\ inside a \<div>\
-- If you want to separate elements vertically you should use \<divs>\
+- There can be a \<div> inside a \<div>
+- If you want to separate elements vertically you should use \<divs>
 
 ## Heading tags
-- There are 6 heading tags on HTML \<h1>\, \<h2>\, \<h3>\, ..., \<h6>\
-- \<h1>\ is the biggest and \<h2>\ the lowest
+- There are 6 heading tags on HTML \<h1>, \<h2>, \<h3>, ..., \<h6>
+- \<h1> is the biggest and \<h2> the lowest
 
 ## Resources
 #### Excalidraw
