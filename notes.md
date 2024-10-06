@@ -1,8 +1,8 @@
 # Notes
 
-## \<html>\
+## \<html>
 - It is composed of tags of code. 
-- It is divided in \<head>\ and \<body>\
+- It is divided in \<head> and \<body>
 
 ## \<head>\
 - It is the title that appears in the tab of the site.
